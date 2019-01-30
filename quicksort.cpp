@@ -55,7 +55,7 @@ void quicksort(int arr[], int low, int high)
 
 int main() {
 	
-	int arr[] = {10, 7, 8, 9, 1, 5};
+	int arr[] = {10, 5, 7, 2, 4, 7};
 	int n = sizeof(arr) / sizeof(arr[0]);
 	//cout<<"sizeof(arr): "<< sizeof(arr) << " sizeof(arr[0]): "<< sizeof(arr[0]);
 
